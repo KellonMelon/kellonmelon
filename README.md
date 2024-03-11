@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**KellonMelon/kellonmelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**KellonMelon** is✨ _special_ ✨
+
+
+- 🔭 I’m currently working on ... trying to figure out how to make a good website
+- 🌱 I’m currently learning ... SQL
+- 🤔 I’m looking for help with ... everything
+- 💬 Ask me about ... japanese jazz fusion
+- 📫 How to reach me: ... kellonmelon65@gmail.com
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I own _every_ Himiko Kikuchi album I'm so cool
+
